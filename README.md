@@ -32,8 +32,12 @@ Kotlin : -->
 <h2> Projects </h2>
 - Personal Website for (Dec 2021 ~ Mar 2022) <br>
 - Mobile App (Mar 2022 ~ May 2022) <br>
+    - Analyzing musical input file and changing
 -  <br>
 - Open Source Contribution (Apr 2022 ~ Jun 2022) <br>
+    - Checking
+<br>
+- MIPS Programming
 
 <br>
 
